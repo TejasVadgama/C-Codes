@@ -5,7 +5,7 @@ int main() {
     int B = 10;
 
     printf("This Is the Arithmetic Operations in C. \n");
-    
+
     printf("Addition of A & B is: %d\n",A + B);
     printf("Subtraction of A & B is: %d\n",A - B);
     printf("Multiplication of A & B is: %d\n",A * B);
