@@ -10,6 +10,8 @@ int main() {
     printf("Subtraction of A & B is: %d\n",A - B);
     printf("Multiplication of A & B is: %d\n",A * B);
     printf("Division of A & B is: %d\n",A / B);
+    printf("Increment A Value: %d\n",A++);
+    printf("Decrement B Value: %d\n",B--);
 
     return 0;
 }
